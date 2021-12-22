@@ -22,3 +22,6 @@ This is to find the faults in PCB using OpenCV
   
 ## NOTES:
   ### 1. The Original image and "Testing Image" should be of same size and format.
+
+## Document and simple photo:
+https://medium.com/@Swathi_Nallapati/pcb-fault-detection-using-opencv-and-python-13f7ea7759c
